@@ -135,7 +135,15 @@ button {
   gap: 8px;
 }
 
+.resume-row {
+  display: flex;
+  gap: 8px;
+  align-items: stretch;
+}
+
 .resume-item {
+  flex: 1;
+  min-width: 0;
   text-align: left;
   border-radius: 10px;
   border: 1px solid var(--border);
@@ -143,6 +151,27 @@ button {
   padding: 10px 12px;
   cursor: pointer;
   color: var(--text);
+}
+
+.resume-delete {
+  flex: 0 0 auto;
+  width: 44px;
+  min-height: 44px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 10px;
+  border: 1px solid var(--border);
+  background: var(--surface);
+  color: var(--muted);
+  cursor: pointer;
+}
+
+.resume-delete:hover,
+.resume-delete:focus-visible {
+  color: var(--wrong);
+  border-color: var(--wrong);
+  background: var(--wrong-bg);
 }
 
 .day-grid {
