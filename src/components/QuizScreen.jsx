@@ -30,7 +30,9 @@ export default function QuizScreen({
     if (!session.choicesByIndex[idx]) {
       persist({
         ...session,
-        choicesByIndex: { ...session.choicesByIndex, [idx]: choices },
+        // Only the current question's choices are kept (no back-navigation),
+        // which keeps the saved session small enough for localStorage.
+        choicesByIndex: { [idx]: choices },
       })
     }
     // eslint-disable-next-line react-hooks/exhaustive-deps

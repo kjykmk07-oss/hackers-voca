@@ -2,6 +2,8 @@ const SESSIONS_KEY = 'vocaquiz:sessions:v1'
 const DAYSTATS_KEY = 'vocaquiz:dayStats:v1'
 const THEME_KEY = 'vocaquiz:theme'
 
+const SESSION_MAX_AGE_MS = 7 * 24 * 60 * 60 * 1000
+
 function readJSON(key, fallback) {
   try {
     const raw = localStorage.getItem(key)
@@ -11,8 +13,53 @@ function readJSON(key, fallback) {
   }
 }
 
+function trySet(key, value) {
+  try {
+    localStorage.setItem(key, JSON.stringify(value))
+    return true
+  } catch {
+    return false
+  }
+}
+
+// Never throws: on quota errors, sessions are pruned and the write retried once.
 function writeJSON(key, value) {
-  localStorage.setItem(key, JSON.stringify(value))
+  if (trySet(key, value)) return true
+  if (key === SESSIONS_KEY) {
+    return trySet(key, pruneSessions(value, { aggressive: true }))
+  }
+  return false
+}
+
+export function isRetrySession(s) {
+  return Boolean(s.isRetry) || String(s.sessionKey).includes(':retry:')
+}
+
+// Keep only the current question's cached choices (no back-navigation exists,
+// so earlier questions' choices are never needed again).
+function compactSession(s) {
+  const cur = s.choicesByIndex && s.choicesByIndex[s.currentIndex]
+  return { ...s, choicesByIndex: cur ? { [s.currentIndex]: cur } : {} }
+}
+
+// Drop sessions untouched for 7+ days, keep only the newest retry session,
+// and compact every session. `aggressive` additionally caps to the 3 newest.
+function pruneSessions(all, { aggressive = false } = {}) {
+  const now = Date.now()
+  const list = Object.values(all || {})
+    .filter((s) => s && s.sessionKey && now - (s.updatedAt || 0) < SESSION_MAX_AGE_MS)
+    .map(compactSession)
+    .sort((a, b) => b.updatedAt - a.updatedAt)
+  const retries = list.filter(isRetrySession)
+  let keep = list.filter((s) => !isRetrySession(s)).concat(retries.slice(0, 1))
+  keep.sort((a, b) => b.updatedAt - a.updatedAt)
+  if (aggressive) keep = keep.slice(0, 3)
+  return Object.fromEntries(keep.map((s) => [s.sessionKey, s]))
+}
+
+export function pruneStoredSessions() {
+  const all = readJSON(SESSIONS_KEY, {})
+  writeJSON(SESSIONS_KEY, pruneSessions(all))
 }
 
 export function scopeLabel(scope) {
@@ -30,7 +77,7 @@ export function loadSessions() {
 
 export function saveSession(session) {
   const all = loadSessions()
-  all[session.sessionKey] = session
+  all[session.sessionKey] = compactSession(session)
   writeJSON(SESSIONS_KEY, all)
 }
 
@@ -55,17 +102,16 @@ export function saveDayStats(stats) {
   writeJSON(DAYSTATS_KEY, stats)
 }
 
-export function bestAccuracyForDay(day) {
-  const stats = loadDayStats()
+export function bestAccuracyFromStats(stats, day) {
   const d = stats[day]
   if (!d || d.headwordAttempts + d.synonymAttempts === 0) return null
   return d.bestAccuracy ?? null
 }
 
-// Tally session results per-day and merge into persisted dayStats.
+// Pure tally of a session's answers per day (does not persist anything).
 // itemsByKey: Map of itemKey -> pooled question item (word, meanings, day, isHeadword, sourceSenses)
-export function recordSessionResults(session, itemsByKey) {
-  const perDay = {} // day -> {attempts, correct, headwordAttempts, headwordCorrect, synonymAttempts, synonymCorrect, missed: []}
+export function tallySession(session, itemsByKey) {
+  const perDay = {}
 
   session.order.forEach((itemKey, idx) => {
     const item = itemsByKey.get(itemKey)
@@ -106,6 +152,16 @@ export function recordSessionResults(session, itemsByKey) {
       })
     }
   })
+
+  return perDay
+}
+
+// Tally session results per-day and merge into persisted dayStats.
+// Retry ("틀린 것만 다시 풀기") sessions are tallied for display only and never
+// touch dayStats, so they can't inflate a Day's best accuracy.
+export function recordSessionResults(session, itemsByKey) {
+  const perDay = tallySession(session, itemsByKey)
+  if (isRetrySession(session)) return perDay
 
   const stats = loadDayStats()
   for (const [dayStr, bucket] of Object.entries(perDay)) {

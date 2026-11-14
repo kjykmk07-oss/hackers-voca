@@ -19,6 +19,9 @@ export default function ResultsScreen({ data, onRetryWrong, onRestart, onHome })
       <div className="score-big">
         {correct} / {attempts} ({pct(correct, attempts)})
       </div>
+      {data.session.isRetry && (
+        <p className="retry-note">복습 결과는 Day별 최고 기록에 반영되지 않습니다.</p>
+      )}
 
       <h3>Day별 정답률</h3>
       <table className="results-table">

@@ -423,6 +423,12 @@ button {
   margin-bottom: 6px;
 }
 
+.retry-note {
+  color: var(--muted);
+  font-size: 0.88rem;
+  margin: -12px 0 16px;
+}
+
 .missed-sub {
   color: var(--muted);
   font-size: 0.88rem;

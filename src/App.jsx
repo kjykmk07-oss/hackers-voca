@@ -1,8 +1,9 @@
 import React, { useEffect, useMemo, useState, useCallback } from 'react'
 import { SENSES, DAYS } from './lib/words.js'
-import { buildQuestionPool, buildFullPool } from './lib/pool.js'
+import { getSessionPool, buildFullPool } from './lib/pool.js'
 import {
   makeSessionKey,
+  loadSessions,
   saveSession,
   deleteSession,
   recordSessionResults,
@@ -43,23 +44,32 @@ export default function App() {
   const fullPoolWithSyn = useMemo(() => buildFullPool(SENSES, true), [])
 
   const poolForSession = useCallback(
-    (days, scope) => buildQuestionPool(SENSES, days, scope === 'headwordAndSynonym'),
+    (days, scope) => getSessionPool(SENSES, days, scope === 'headwordAndSynonym').pool,
     []
   )
 
   const itemsByKeyForSession = useCallback(
-    (days, scope) => {
-      const pool = poolForSession(days, scope)
-      return new Map(pool.map((i) => [i.key, i]))
-    },
-    [poolForSession]
+    (days, scope) => getSessionPool(SENSES, days, scope === 'headwordAndSynonym').byKey,
+    []
   )
 
-  function startNewSession(days, scope) {
+  function startNewSession(days, scope, { force = false } = {}) {
+    const sessionKey = makeSessionKey(days, scope)
+    const existing = loadSessions()[sessionKey]
+    if (!force && existing && existing.currentIndex < existing.total) {
+      const startOver = window.confirm(
+        `같은 조건으로 진행 중인 세션이 있습니다 (${existing.currentIndex}/${existing.total}).\n\n` +
+          '확인: 기존 기록을 지우고 새로 시작\n취소: 이어서 하기'
+      )
+      if (!startOver) {
+        resumeSession(existing)
+        return
+      }
+    }
     const pool = poolForSession(days, scope)
     const order = shuffle(pool.map((i) => i.key))
     const session = {
-      sessionKey: makeSessionKey(days, scope),
+      sessionKey,
       days: [...days].sort((a, b) => a - b),
       scope,
       order,
@@ -153,6 +163,7 @@ export default function App() {
     if (keys.length === 0) return
     const session = {
       sessionKey: `${data.session.sessionKey}:retry:${Date.now()}`,
+      isRetry: true,
       days: data.session.days,
       scope: data.session.scope,
       order: shuffle(keys),
@@ -169,7 +180,8 @@ export default function App() {
   }
 
   function restartSame(data) {
-    startNewSession(data.session.days, data.session.scope)
+    // Just-finished session was already deleted, so no conflict prompt is needed.
+    startNewSession(data.session.days, data.session.scope, { force: true })
   }
 
   function openWordList(days) {
