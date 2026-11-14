@@ -1,0 +1,2584 @@
+[
+  {
+    "day": 9,
+    "no": 39,
+    "sense": 1,
+    "word": "essentially",
+    "pos": "adv.",
+    "meaning": "기본적으로, 본질적으로",
+    "synonyms": [
+      "basically",
+      "fundamentally",
+      "primarily"
+    ],
+    "example": "Dogs are essentially loyal companions, but a mistreated or untrained pet may still run away."
+  },
+  {
+    "day": 9,
+    "no": 40,
+    "sense": 1,
+    "word": "oversee",
+    "pos": "v.",
+    "meaning": "감독하다",
+    "synonyms": [
+      "supervise",
+      "control",
+      "superintend"
+    ],
+    "example": "It is the job of the manager to oversee factory workers."
+  },
+  {
+    "day": 9,
+    "no": 41,
+    "sense": 1,
+    "word": "rapidly",
+    "pos": "adv.",
+    "meaning": "급속히, 빨리",
+    "synonyms": [
+      "quickly",
+      "fast"
+    ],
+    "example": "Theodore's health declined rapidly, and in 1933, he died of cancer."
+  },
+  {
+    "day": 9,
+    "no": 42,
+    "sense": 1,
+    "word": "acknowledge",
+    "pos": "v.",
+    "meaning": "인정하다",
+    "synonyms": [
+      "recognize",
+      "admit",
+      "accept"
+    ],
+    "example": "The professor acknowledged the unrealistic deadline for the assignment and changed it."
+  },
+  {
+    "day": 9,
+    "no": 43,
+    "sense": 1,
+    "word": "rough",
+    "pos": "adj.",
+    "meaning": "울퉁불퉁한, 거친",
+    "synonyms": [
+      "uneven",
+      "rugged",
+      "bumpy",
+      "coarse"
+    ],
+    "example": "The merchants completed the trip over the rough mountain road."
+  },
+  {
+    "day": 9,
+    "no": 44,
+    "sense": 1,
+    "word": "preclude",
+    "pos": "v.",
+    "meaning": "막다",
+    "synonyms": [
+      "prevent",
+      "stop",
+      "hinder"
+    ],
+    "example": "According to Adam Smith, the feudal system precluded economic progress."
+  },
+  {
+    "day": 9,
+    "no": 44,
+    "sense": 2,
+    "word": "preclude",
+    "pos": "v.",
+    "meaning": "배제하다",
+    "synonyms": [
+      "rule out",
+      "exclude"
+    ],
+    "example": "Sherlock Holmes always said that once you preclude all impossibilities, whatever is left is the answer."
+  },
+  {
+    "day": 9,
+    "no": 45,
+    "sense": 1,
+    "word": "portable",
+    "pos": "adj.",
+    "meaning": "휴대용의",
+    "synonyms": [
+      "able to be carried",
+      "mobile",
+      "movable"
+    ],
+    "example": "Engineers are developing new portable medical devices that can be taken wherever you go."
+  },
+  {
+    "day": 9,
+    "no": 46,
+    "sense": 1,
+    "word": "presumable",
+    "pos": "adj.",
+    "meaning": "그럴듯한, 있음직한",
+    "synonyms": [
+      "probable",
+      "likely",
+      "possible"
+    ],
+    "example": "An undetected gas leak was the presumable cause of the explosion."
+  },
+  {
+    "day": 9,
+    "no": 47,
+    "sense": 1,
+    "word": "calculatedly",
+    "pos": "adv.",
+    "meaning": "계획적으로",
+    "synonyms": [
+      "deliberately",
+      "intentionally",
+      "knowingly"
+    ],
+    "example": "Spaces in the seminar have been calculatedly limited to facilitate more intimate discussions."
+  },
+  {
+    "day": 9,
+    "no": 48,
+    "sense": 1,
+    "word": "deviation",
+    "pos": "n.",
+    "meaning": "일탈",
+    "synonyms": [
+      "departure",
+      "divergence",
+      "aberration"
+    ],
+    "example": "Jenny is a talented skater and her poor performance in the competition was a deviation from the norm."
+  },
+  {
+    "day": 9,
+    "no": 49,
+    "sense": 1,
+    "word": "hairline",
+    "pos": "adj.",
+    "meaning": "아주 가느다란",
+    "synonyms": [
+      "slight",
+      "thin"
+    ],
+    "example": "The contractor noted that the hairline cracks in the wall needed to be repaired before they got bigger."
+  },
+  {
+    "day": 9,
+    "no": 50,
+    "sense": 1,
+    "word": "formulate",
+    "pos": "v.",
+    "meaning": "고안하다, 발전시키다",
+    "synonyms": [
+      "develop",
+      "devise",
+      "forge"
+    ],
+    "example": "The marketing department is formulating a plan to attract more clients."
+  },
+  {
+    "day": 9,
+    "no": 50,
+    "sense": 2,
+    "word": "formulate",
+    "pos": "v.",
+    "meaning": "명확히 말하다",
+    "synonyms": [
+      "state",
+      "specify",
+      "express"
+    ],
+    "example": "The speaker formulated his ideas in clear and concise language that the audience understood easily."
+  },
+  {
+    "day": 9,
+    "no": 51,
+    "sense": 1,
+    "word": "astute",
+    "pos": "adj.",
+    "meaning": "통찰력 있는, 영악한",
+    "synonyms": [
+      "insightful",
+      "shrewd",
+      "clever",
+      "sharp"
+    ],
+    "example": "The professor was impressed with Daniel's astute observations about the poem."
+  },
+  {
+    "day": 9,
+    "no": 52,
+    "sense": 1,
+    "word": "reliable",
+    "pos": "adj.",
+    "meaning": "신뢰할 수 있는",
+    "synonyms": [
+      "dependable",
+      "trustworthy",
+      "credible"
+    ],
+    "example": "Jane wanted to know if there was someone reliable in her life."
+  },
+  {
+    "day": 9,
+    "no": 53,
+    "sense": 1,
+    "word": "take precedence over",
+    "pos": "phr.",
+    "meaning": "~보다 우선하다",
+    "synonyms": [
+      "be more important than",
+      "come before"
+    ],
+    "example": "In a hospital emergency room, patients with severe trauma take precedence over people with minor injuries."
+  },
+  {
+    "day": 9,
+    "no": 54,
+    "sense": 1,
+    "word": "allusion",
+    "pos": "n.",
+    "meaning": "(간접적인) 언급, 암시",
+    "synonyms": [
+      "reference",
+      "mention",
+      "implication",
+      "suggestion"
+    ],
+    "example": "During his presentation, the speaker made an allusion to one of the scenes in Shakespeare's Macbeth."
+  },
+  {
+    "day": 9,
+    "no": 55,
+    "sense": 1,
+    "word": "locomotion",
+    "pos": "n.",
+    "meaning": "이동 능력",
+    "synonyms": [
+      "movement",
+      "motion"
+    ],
+    "example": "The invention of the airplane took human locomotion to a higher level."
+  },
+  {
+    "day": 9,
+    "no": 56,
+    "sense": 1,
+    "word": "principally",
+    "pos": "adv.",
+    "meaning": "주로",
+    "synonyms": [
+      "mainly"
+    ],
+    "example": "Edgar Allen Poe principally wrote poems and short stories, although he did produce one play."
+  },
+  {
+    "day": 9,
+    "no": 57,
+    "sense": 1,
+    "word": "rebellion",
+    "pos": "n.",
+    "meaning": "반란",
+    "synonyms": [
+      "uprising",
+      "revolt"
+    ],
+    "example": "The rebellion of British colonists in North America led to the formation of the United States."
+  },
+  {
+    "day": 9,
+    "no": 58,
+    "sense": 1,
+    "word": "revive",
+    "pos": "v.",
+    "meaning": "회복하다, 소생하다",
+    "synonyms": [
+      "recover"
+    ],
+    "example": "The economy revived following an extended period of increased consumer spending."
+  },
+  {
+    "day": 10,
+    "no": 1,
+    "sense": 1,
+    "word": "modify",
+    "pos": "v.",
+    "meaning": "바꾸다, 조정하다",
+    "synonyms": [
+      "change",
+      "alter",
+      "adjust",
+      "adapt"
+    ],
+    "example": "Many software settings can be modified to improve the performance of a computer."
+  },
+  {
+    "day": 10,
+    "no": 2,
+    "sense": 1,
+    "word": "initially",
+    "pos": "adv.",
+    "meaning": "처음에",
+    "synonyms": [
+      "at first",
+      "originally",
+      "primarily"
+    ],
+    "example": "Ben initially supported Roger's plan, but later opposed it."
+  },
+  {
+    "day": 10,
+    "no": 3,
+    "sense": 1,
+    "word": "critical",
+    "pos": "adj.",
+    "meaning": "중요한",
+    "synonyms": [
+      "(most) important",
+      "crucial",
+      "essential"
+    ],
+    "example": "Air traffic controllers must make critical decisions every day that affect the lives of many people."
+  },
+  {
+    "day": 10,
+    "no": 3,
+    "sense": 2,
+    "word": "critical",
+    "pos": "adj.",
+    "meaning": "위독한, 위험한",
+    "synonyms": [
+      "dangerous",
+      "risky"
+    ],
+    "example": "The patient's adverse reaction to the medicine caused his heart rate to drop to a critical level."
+  },
+  {
+    "day": 10,
+    "no": 4,
+    "sense": 1,
+    "word": "luminous",
+    "pos": "adj.",
+    "meaning": "빛나는",
+    "synonyms": [
+      "brilliant",
+      "bright",
+      "shining",
+      "glowing"
+    ],
+    "example": "The luminous object that appeared over Europe in AD 1066 was Halley's Comet."
+  },
+  {
+    "day": 10,
+    "no": 5,
+    "sense": 1,
+    "word": "facilitate",
+    "pos": "v.",
+    "meaning": "용이하게 하다",
+    "synonyms": [
+      "ease",
+      "make easy",
+      "help",
+      "assist",
+      "aid"
+    ],
+    "example": "Freedom of information laws facilitate access to government documents for researchers."
+  },
+  {
+    "day": 10,
+    "no": 6,
+    "sense": 1,
+    "word": "refinement",
+    "pos": "n.",
+    "meaning": "개선",
+    "synonyms": [
+      "small improvement",
+      "advancement",
+      "enhancement"
+    ],
+    "example": "For 14 years, Alfred Wegener made numerous refinements to his theory of continental drift."
+  },
+  {
+    "day": 10,
+    "no": 7,
+    "sense": 1,
+    "word": "attribute",
+    "pos": "n.",
+    "meaning": "특성",
+    "synonyms": [
+      "characteristic",
+      "trait",
+      "quality",
+      "property"
+    ],
+    "example": "The prime minister's ability to speak eloquently is considered one of his greatest attributes."
+  },
+  {
+    "day": 10,
+    "no": 7,
+    "sense": 2,
+    "word": "attribute",
+    "pos": "v.",
+    "meaning": "~의 탓(덕)으로 돌리다",
+    "synonyms": [
+      "ascribe",
+      "credit",
+      "impute",
+      "refer"
+    ],
+    "example": "The world's increase in energy use can be attributed to the population growth."
+  },
+  {
+    "day": 10,
+    "no": 8,
+    "sense": 1,
+    "word": "belch",
+    "pos": "v.",
+    "meaning": "분출하다",
+    "synonyms": [
+      "suddenly emit",
+      "discharge",
+      "erupt",
+      "vent"
+    ],
+    "example": "Volcanoes can belch toxic fumes without warning."
+  },
+  {
+    "day": 10,
+    "no": 9,
+    "sense": 1,
+    "word": "underrate",
+    "pos": "v.",
+    "meaning": "과소평가하다",
+    "synonyms": [
+      "undervalue",
+      "underestimate",
+      "belittle"
+    ],
+    "example": "Many parents underrate the importance of playing with their children."
+  },
+  {
+    "day": 10,
+    "no": 10,
+    "sense": 1,
+    "word": "immense",
+    "pos": "adj.",
+    "meaning": "거대한",
+    "synonyms": [
+      "large",
+      "enormous",
+      "huge",
+      "tremendous"
+    ],
+    "example": "The immense statue of the Greek goddess Athena attracted many tourists to the Acropolis."
+  },
+  {
+    "day": 10,
+    "no": 11,
+    "sense": 1,
+    "word": "virtue",
+    "pos": "n.",
+    "meaning": "미덕",
+    "synonyms": [
+      "goodness"
+    ],
+    "example": "According to legend, King Arthur was both a great warrior and a man of virtue."
+  },
+  {
+    "day": 10,
+    "no": 11,
+    "sense": 2,
+    "word": "virtue",
+    "pos": "n.",
+    "meaning": "장점",
+    "synonyms": [
+      "merit",
+      "desirable quality",
+      "strength"
+    ],
+    "example": "A virtue shared by all great leaders is the ability to motivate others."
+  },
+  {
+    "day": 10,
+    "no": 12,
+    "sense": 1,
+    "word": "bustling",
+    "pos": "adj.",
+    "meaning": "붐비는, 떠들썩한",
+    "synonyms": [
+      "busy",
+      "lively"
+    ],
+    "example": "During the summer, the sidewalks and shops near the beach are bustling with people."
+  },
+  {
+    "day": 10,
+    "no": 13,
+    "sense": 1,
+    "word": "distinct",
+    "pos": "adj.",
+    "meaning": "다른, 별개의",
+    "synonyms": [
+      "different",
+      "separate",
+      "discrete"
+    ],
+    "example": "Each region of Italy maintains its own distinct traditions."
+  },
+  {
+    "day": 10,
+    "no": 13,
+    "sense": 2,
+    "word": "distinct",
+    "pos": "adj.",
+    "meaning": "뚜렷한",
+    "synonyms": [
+      "definite",
+      "clear and recognizable"
+    ],
+    "example": "There was a distinct difference in the twins' personalities."
+  },
+  {
+    "day": 10,
+    "no": 14,
+    "sense": 1,
+    "word": "thriving",
+    "pos": "adj.",
+    "meaning": "번영하는",
+    "synonyms": [
+      "prosperous",
+      "successful",
+      "flourishing"
+    ],
+    "example": "Our town used to be very small, but it has grown into a thriving community."
+  },
+  {
+    "day": 10,
+    "no": 15,
+    "sense": 1,
+    "word": "obvious",
+    "pos": "adj.",
+    "meaning": "분명한",
+    "synonyms": [
+      "evident",
+      "clear",
+      "apparent",
+      "conspicuous"
+    ],
+    "example": "It was obvious that Fred didn't understand what Wilma meant."
+  },
+  {
+    "day": 10,
+    "no": 16,
+    "sense": 1,
+    "word": "exceptional",
+    "pos": "adj.",
+    "meaning": "이례적인",
+    "synonyms": [
+      "extraordinary",
+      "abnormal",
+      "unusual"
+    ],
+    "example": "The Ancient Greek Olympians displayed an exceptional amount of strength and endurance."
+  },
+  {
+    "day": 10,
+    "no": 17,
+    "sense": 1,
+    "word": "cumbersome",
+    "pos": "adj.",
+    "meaning": "다루기 힘든",
+    "synonyms": [
+      "difficult to handle",
+      "burdensome",
+      "awkward"
+    ],
+    "example": "Although the cultivator looks cumbersome, it is actually easy to use."
+  },
+  {
+    "day": 10,
+    "no": 18,
+    "sense": 1,
+    "word": "boon",
+    "pos": "n.",
+    "meaning": "큰 이익, 혜택",
+    "synonyms": [
+      "great benefit",
+      "advantage"
+    ],
+    "example": "Due to so many people purchasing gifts, the Christmas season is always a boon to retail stores."
+  },
+  {
+    "day": 10,
+    "no": 19,
+    "sense": 1,
+    "word": "optimum",
+    "pos": "adj.",
+    "meaning": "최고의",
+    "synonyms": [
+      "best",
+      "most favorable",
+      "supreme"
+    ],
+    "example": "Machines achieve optimum performance when they are properly maintained and regularly used."
+  },
+  {
+    "day": 10,
+    "no": 20,
+    "sense": 1,
+    "word": "uniformly",
+    "pos": "adv.",
+    "meaning": "균일하게, 한결같이",
+    "synonyms": [
+      "evenly",
+      "regularly",
+      "consistently"
+    ],
+    "example": "If the paint is not spread uniformly on the wall, there will be variations in color when it dries."
+  },
+  {
+    "day": 10,
+    "no": 21,
+    "sense": 1,
+    "word": "unleash",
+    "pos": "v.",
+    "meaning": "(속박을) 풀다",
+    "synonyms": [
+      "release",
+      "unloose"
+    ],
+    "example": "We took our dogs to the fenced park so that we could unleash them and let them run free."
+  },
+  {
+    "day": 10,
+    "no": 22,
+    "sense": 1,
+    "word": "acquire",
+    "pos": "v.",
+    "meaning": "얻다",
+    "synonyms": [
+      "obtain",
+      "gain",
+      "procure",
+      "earn"
+    ],
+    "example": "Some people acquired great wealth by investing in the stock market."
+  },
+  {
+    "day": 10,
+    "no": 23,
+    "sense": 1,
+    "word": "enigma",
+    "pos": "n.",
+    "meaning": "수수께끼",
+    "synonyms": [
+      "mystery",
+      "puzzle",
+      "riddle"
+    ],
+    "example": "Even today, the origin of Egypt's great pyramids is an enigma."
+  },
+  {
+    "day": 10,
+    "no": 24,
+    "sense": 1,
+    "word": "steadfast",
+    "pos": "adj.",
+    "meaning": "변함없는, 단호한",
+    "synonyms": [
+      "unwavering",
+      "firm",
+      "enduring",
+      "resolute"
+    ],
+    "example": "It is the president's steadfast belief that Congress needs more women."
+  },
+  {
+    "day": 10,
+    "no": 25,
+    "sense": 1,
+    "word": "dainty",
+    "pos": "adj.",
+    "meaning": "우아한, 섬세한",
+    "synonyms": [
+      "delicate",
+      "exquisite",
+      "refined"
+    ],
+    "example": "At the wedding, the decorations included thousands of dainty flowers."
+  },
+  {
+    "day": 10,
+    "no": 26,
+    "sense": 1,
+    "word": "anomaly",
+    "pos": "n.",
+    "meaning": "이례적인 것, 예외",
+    "synonyms": [
+      "irregularity",
+      "abnormality",
+      "exception"
+    ],
+    "example": "Modern airplanes are very safe, so crashes are anomalies."
+  },
+  {
+    "day": 10,
+    "no": 27,
+    "sense": 1,
+    "word": "splendid",
+    "pos": "adj.",
+    "meaning": "멋진",
+    "synonyms": [
+      "marvelous",
+      "magnificent"
+    ],
+    "example": "The Palace of Versailles is a splendid example of French architecture."
+  },
+  {
+    "day": 10,
+    "no": 28,
+    "sense": 1,
+    "word": "rapport",
+    "pos": "n.",
+    "meaning": "(친밀한) 관계",
+    "synonyms": [
+      "bond",
+      "relationship",
+      "link",
+      "tie"
+    ],
+    "example": "The friendly teacher had a strong rapport with his students."
+  },
+  {
+    "day": 10,
+    "no": 29,
+    "sense": 1,
+    "word": "question",
+    "pos": "v.",
+    "meaning": "~에 대해 이의를 제기하다",
+    "synonyms": [
+      "take a critical look at",
+      "dispute"
+    ],
+    "example": "Some people question the educational value of certain testing methods, such as multiple-choice exams."
+  },
+  {
+    "day": 10,
+    "no": 30,
+    "sense": 1,
+    "word": "scatter",
+    "pos": "v.",
+    "meaning": "흩뿌리다",
+    "synonyms": [
+      "disperse",
+      "dissipate",
+      "distribute",
+      "spread out",
+      "widely spread"
+    ],
+    "example": "The man scattered grass seeds all over the lawn."
+  },
+  {
+    "day": 10,
+    "no": 31,
+    "sense": 1,
+    "word": "escalate",
+    "pos": "v.",
+    "meaning": "확대되다, 증대하다",
+    "synonyms": [
+      "intensify",
+      "increase",
+      "mount",
+      "rise"
+    ],
+    "example": "The demonstration quickly escalated when a protestor threw a glass bottle at the police."
+  },
+  {
+    "day": 10,
+    "no": 32,
+    "sense": 1,
+    "word": "temporary",
+    "pos": "adj.",
+    "meaning": "일시적인",
+    "synonyms": [
+      "short-lived",
+      "makeshift",
+      "for a limited time",
+      "transitory"
+    ],
+    "example": "The pill caused a few temporary side effects."
+  },
+  {
+    "day": 10,
+    "no": 33,
+    "sense": 1,
+    "word": "attest",
+    "pos": "v.",
+    "meaning": "증명하다, 입증하다",
+    "synonyms": [
+      "confirm",
+      "support",
+      "prove"
+    ],
+    "example": "Three witnesses signed the will to attest its authenticity."
+  },
+  {
+    "day": 10,
+    "no": 34,
+    "sense": 1,
+    "word": "fortify",
+    "pos": "v.",
+    "meaning": "강화하다",
+    "synonyms": [
+      "strengthen",
+      "reinforce"
+    ],
+    "example": "To prepare for war, the general had his men fortify the walls of the fort."
+  },
+  {
+    "day": 10,
+    "no": 35,
+    "sense": 1,
+    "word": "remove",
+    "pos": "v.",
+    "meaning": "제거하다",
+    "synonyms": [
+      "eliminate",
+      "extract",
+      "withdraw"
+    ],
+    "example": "A plastic surgeon can remove scars using a laser."
+  },
+  {
+    "day": 10,
+    "no": 36,
+    "sense": 1,
+    "word": "end",
+    "pos": "n.",
+    "meaning": "목적, 목표",
+    "synonyms": [
+      "purpose",
+      "goal",
+      "aim"
+    ],
+    "example": "The end of the project is to increase agricultural yields in Sub-Saharan Africa."
+  },
+  {
+    "day": 10,
+    "no": 37,
+    "sense": 1,
+    "word": "plentiful",
+    "pos": "adj.",
+    "meaning": "풍부한",
+    "synonyms": [
+      "abundant",
+      "bountiful",
+      "rich"
+    ],
+    "example": "Fish and plankton are plentiful in the sea."
+  },
+  {
+    "day": 10,
+    "no": 38,
+    "sense": 1,
+    "word": "make it",
+    "pos": "phr.",
+    "meaning": "(제시간에) 도착하다",
+    "synonyms": [
+      "arrive"
+    ],
+    "example": "Despite the traffic congestion downtown, all the fans managed to make it on time for the concert."
+  },
+  {
+    "day": 10,
+    "no": 39,
+    "sense": 1,
+    "word": "devastate",
+    "pos": "v.",
+    "meaning": "완전히 파괴하다",
+    "synonyms": [
+      "destroy",
+      "demolish",
+      "ravage",
+      "ruin"
+    ],
+    "example": "The logging industry has devastated many tropical rainforests in South America."
+  },
+  {
+    "day": 10,
+    "no": 40,
+    "sense": 1,
+    "word": "eminently",
+    "pos": "adv.",
+    "meaning": "대단히, 현저히",
+    "synonyms": [
+      "exceptionally",
+      "highly",
+      "extremely"
+    ],
+    "example": "The city's new subway system is eminently practical."
+  },
+  {
+    "day": 10,
+    "no": 41,
+    "sense": 1,
+    "word": "subtraction",
+    "pos": "n.",
+    "meaning": "삭감, 공제",
+    "synonyms": [
+      "decrease",
+      "deduction",
+      "reduction"
+    ],
+    "example": "Many teachers opposed the subtraction of funds for art and music."
+  },
+  {
+    "day": 10,
+    "no": 42,
+    "sense": 1,
+    "word": "as a rule of thumb",
+    "pos": "phr.",
+    "meaning": "경험적으로 보아 대개",
+    "synonyms": [
+      "in general"
+    ],
+    "example": "As a rule of thumb, people should visit the dentist for a check-up every six months."
+  },
+  {
+    "day": 10,
+    "no": 43,
+    "sense": 1,
+    "word": "blur",
+    "pos": "v.",
+    "meaning": "흐리게 하다",
+    "synonyms": [
+      "make less distinct",
+      "obscure",
+      "cloud"
+    ],
+    "example": "The new political party blurred the lines between conservatives and liberals."
+  },
+  {
+    "day": 10,
+    "no": 44,
+    "sense": 1,
+    "word": "relay",
+    "pos": "v.",
+    "meaning": "전달하다",
+    "synonyms": [
+      "transfer",
+      "communicate",
+      "transmit",
+      "impart"
+    ],
+    "example": "In the 19th century, news reports were relayed by telegram."
+  },
+  {
+    "day": 10,
+    "no": 45,
+    "sense": 1,
+    "word": "expandable",
+    "pos": "adj.",
+    "meaning": "펼칠 수 있는, 확장할 수 있는",
+    "synonyms": [
+      "able to be enlarged",
+      "extendable"
+    ],
+    "example": "The dining room table is expandable to accommodate dinner guests."
+  },
+  {
+    "day": 10,
+    "no": 46,
+    "sense": 1,
+    "word": "scrupulous",
+    "pos": "adj.",
+    "meaning": "세심한, 꼼꼼한",
+    "synonyms": [
+      "careful",
+      "fastidious",
+      "meticulous"
+    ],
+    "example": "The police officer was praised for his scrupulous performance of duties."
+  },
+  {
+    "day": 10,
+    "no": 46,
+    "sense": 2,
+    "word": "scrupulous",
+    "pos": "adj.",
+    "meaning": "양심적인",
+    "synonyms": [
+      "honest",
+      "moral"
+    ],
+    "example": "A scrupulous real estate agent does not charge clients excessive fees."
+  },
+  {
+    "day": 10,
+    "no": 47,
+    "sense": 1,
+    "word": "approximately",
+    "pos": "adv.",
+    "meaning": "대략",
+    "synonyms": [
+      "about",
+      "roughly",
+      "nearly"
+    ],
+    "example": "Approximately 25 percent of the world's electricity is used by the US alone."
+  },
+  {
+    "day": 10,
+    "no": 48,
+    "sense": 1,
+    "word": "paradoxical",
+    "pos": "adj.",
+    "meaning": "역설적인",
+    "synonyms": [
+      "seemingly contradictory",
+      "ironic"
+    ],
+    "example": "Einstein thought that using violence to restore peace was paradoxical."
+  },
+  {
+    "day": 10,
+    "no": 49,
+    "sense": 1,
+    "word": "source",
+    "pos": "n.",
+    "meaning": "근원, 기원",
+    "synonyms": [
+      "origin",
+      "beginning",
+      "derivation"
+    ],
+    "example": "Located in central Africa, Lake Victoria is the source of the Nile River."
+  },
+  {
+    "day": 10,
+    "no": 50,
+    "sense": 1,
+    "word": "adhere",
+    "pos": "v.",
+    "meaning": "부착되다, 달라붙다",
+    "synonyms": [
+      "stick",
+      "cleave",
+      "cling"
+    ],
+    "example": "The glue that covers a stamp's back allows it to adhere to an envelope."
+  },
+  {
+    "day": 10,
+    "no": 51,
+    "sense": 1,
+    "word": "available",
+    "pos": "adj.",
+    "meaning": "구할 수 있는",
+    "synonyms": [
+      "accessible",
+      "obtainable"
+    ],
+    "example": "Books were available to the masses for the first time with the invention of Gutenberg's printing press."
+  },
+  {
+    "day": 10,
+    "no": 52,
+    "sense": 1,
+    "word": "get rid of",
+    "pos": "phr.",
+    "meaning": "~을 없애다",
+    "synonyms": [
+      "eliminate",
+      "remove",
+      "dispose of"
+    ],
+    "example": "Meditation has become a popular way for people to get rid of stress."
+  },
+  {
+    "day": 10,
+    "no": 53,
+    "sense": 1,
+    "word": "repel",
+    "pos": "v.",
+    "meaning": "물리치다",
+    "synonyms": [
+      "drive away",
+      "beat off"
+    ],
+    "example": "The high walls of Medieval castles made it easy to repel attackers."
+  },
+  {
+    "day": 10,
+    "no": 54,
+    "sense": 1,
+    "word": "maximize",
+    "pos": "v.",
+    "meaning": "극대화하다",
+    "synonyms": [
+      "increase to the greatest possible degree"
+    ],
+    "example": "Manufacturers set prices for their products that will maximize their potential profits."
+  },
+  {
+    "day": 10,
+    "no": 55,
+    "sense": 1,
+    "word": "outermost",
+    "pos": "adj.",
+    "meaning": "가장 바깥의",
+    "synonyms": [
+      "farthest away",
+      "farthest",
+      "most remote"
+    ],
+    "example": "Neptune is the outermost planet in the solar system."
+  },
+  {
+    "day": 10,
+    "no": 56,
+    "sense": 1,
+    "word": "bind",
+    "pos": "v.",
+    "meaning": "묶다",
+    "synonyms": [
+      "tie",
+      "fasten"
+    ],
+    "example": "For hygiene reasons, restaurant employees with long hair must bind it before they start work."
+  },
+  {
+    "day": 10,
+    "no": 57,
+    "sense": 1,
+    "word": "visible",
+    "pos": "adj.",
+    "meaning": "눈에 띄는, 명백한",
+    "synonyms": [
+      "perceptible"
+    ],
+    "example": "The symptoms of the life-threatening disease may not be visible for several years after infection."
+  },
+  {
+    "day": 11,
+    "no": 1,
+    "sense": 1,
+    "word": "plausible",
+    "pos": "adj.",
+    "meaning": "그럴듯한",
+    "synonyms": [
+      "possible",
+      "believable",
+      "likely",
+      "probable"
+    ],
+    "example": "The story seemed plausible, but witnesses said it was untrue."
+  },
+  {
+    "day": 11,
+    "no": 2,
+    "sense": 1,
+    "word": "transform",
+    "pos": "v.",
+    "meaning": "변형시키다, 바꾸다",
+    "synonyms": [
+      "convert",
+      "change",
+      "alter"
+    ],
+    "example": "Generators transform physical energy into electrical energy."
+  },
+  {
+    "day": 11,
+    "no": 3,
+    "sense": 1,
+    "word": "counterpart",
+    "pos": "n.",
+    "meaning": "(쌍을 이루는) 한 쪽, 동등한 것",
+    "synonyms": [
+      "complement",
+      "equivalent"
+    ],
+    "example": "Medieval religious books often included beautiful illustrations as a counterpart to the written text."
+  },
+  {
+    "day": 11,
+    "no": 4,
+    "sense": 1,
+    "word": "nevertheless",
+    "pos": "adv.",
+    "meaning": "그럼에도 불구하고",
+    "synonyms": [
+      "in spite of that",
+      "however",
+      "still",
+      "yet",
+      "nonetheless"
+    ],
+    "example": "Beagles make excellent pets. Nevertheless, they can become unruly without proper training."
+  },
+  {
+    "day": 11,
+    "no": 5,
+    "sense": 1,
+    "word": "pronounced",
+    "pos": "adj.",
+    "meaning": "현저한",
+    "synonyms": [
+      "notable",
+      "striking",
+      "marked",
+      "significant",
+      "noticeable",
+      "distinct",
+      "strong"
+    ],
+    "example": "The development of agricultural pesticides led to a pronounced increase in crop yields."
+  },
+  {
+    "day": 11,
+    "no": 6,
+    "sense": 1,
+    "word": "celebrated",
+    "pos": "adj.",
+    "meaning": "유명한",
+    "synonyms": [
+      "famous",
+      "renowned",
+      "well-known"
+    ],
+    "example": "General Sherman's march to the sea was probably the most celebrated military campaign in US history."
+  },
+  {
+    "day": 11,
+    "no": 7,
+    "sense": 1,
+    "word": "exceedingly",
+    "pos": "adv.",
+    "meaning": "대단히",
+    "synonyms": [
+      "highly",
+      "extremely",
+      "excessively",
+      "hugely"
+    ],
+    "example": "Prior to the 2008 economic crisis, real estate prices had become exceedingly expensive."
+  },
+  {
+    "day": 11,
+    "no": 8,
+    "sense": 1,
+    "word": "chancy",
+    "pos": "adj.",
+    "meaning": "위험한",
+    "synonyms": [
+      "risky",
+      "perilous",
+      "dangerous"
+    ],
+    "example": "Climbing Mt. Everest is chancy, as many people die on the mountain every year."
+  },
+  {
+    "day": 11,
+    "no": 9,
+    "sense": 1,
+    "word": "vertical",
+    "pos": "adj.",
+    "meaning": "수직의",
+    "synonyms": [
+      "upright",
+      "up-and-down",
+      "erect"
+    ],
+    "example": "The three vertical bands of the French flag symbolize liberty, equality, and brotherhood."
+  },
+  {
+    "day": 11,
+    "no": 10,
+    "sense": 1,
+    "word": "persist",
+    "pos": "v.",
+    "meaning": "지속되다",
+    "synonyms": [
+      "continue",
+      "last",
+      "endure",
+      "remain"
+    ],
+    "example": "Fears persisted even after weather forecasters declared that the hurricane would not come ashore."
+  },
+  {
+    "day": 11,
+    "no": 11,
+    "sense": 1,
+    "word": "magnitude",
+    "pos": "n.",
+    "meaning": "규모, 정도",
+    "synonyms": [
+      "extent",
+      "size",
+      "degree",
+      "measure",
+      "amount"
+    ],
+    "example": "The magnitude of an earthquake is measured on the Richter scale."
+  },
+  {
+    "day": 11,
+    "no": 12,
+    "sense": 1,
+    "word": "discern",
+    "pos": "v.",
+    "meaning": "파악하다, 알아내다",
+    "synonyms": [
+      "identify",
+      "detect",
+      "distinguish"
+    ],
+    "example": "A leader must be able to discern the best course of action for the group."
+  },
+  {
+    "day": 11,
+    "no": 13,
+    "sense": 1,
+    "word": "generate",
+    "pos": "v.",
+    "meaning": "만들어 내다",
+    "synonyms": [
+      "produce",
+      "create"
+    ],
+    "example": "To generate enough electricity for the countryside, the mayor had 200 wind turbines built."
+  },
+  {
+    "day": 11,
+    "no": 14,
+    "sense": 1,
+    "word": "eccentric",
+    "pos": "adj.",
+    "meaning": "별난, 특이한",
+    "synonyms": [
+      "unusual",
+      "bizarre",
+      "peculiar",
+      "odd"
+    ],
+    "example": "Vaudeville actors typically wore eccentric costumes on stage."
+  },
+  {
+    "day": 11,
+    "no": 15,
+    "sense": 1,
+    "word": "alternative",
+    "pos": "adj.",
+    "meaning": "대안이 되는, 다른",
+    "synonyms": [
+      "substitutive",
+      "different"
+    ],
+    "example": "The city encouraged people to take alternative means of transportation to help reduce traffic congestion."
+  },
+  {
+    "day": 11,
+    "no": 15,
+    "sense": 2,
+    "word": "alternative",
+    "pos": "n.",
+    "meaning": "대안",
+    "synonyms": [
+      "substitute",
+      "choice",
+      "option"
+    ],
+    "example": "Applesauce can be a good non-dairy alternative for eggs when baking."
+  },
+  {
+    "day": 11,
+    "no": 16,
+    "sense": 1,
+    "word": "strategy",
+    "pos": "n.",
+    "meaning": "전략, 방법",
+    "synonyms": [
+      "plan",
+      "method",
+      "scheme"
+    ],
+    "example": "The strategy of some predators is to camouflage themselves and wait perfectly still for hours."
+  },
+  {
+    "day": 11,
+    "no": 17,
+    "sense": 1,
+    "word": "refine",
+    "pos": "v.",
+    "meaning": "개선하다",
+    "synonyms": [
+      "improve",
+      "perfect"
+    ],
+    "example": "The writing tutor suggested ways for the student to refine his essay and garner a better grade."
+  },
+  {
+    "day": 11,
+    "no": 18,
+    "sense": 1,
+    "word": "precious",
+    "pos": "adj.",
+    "meaning": "귀중한",
+    "synonyms": [
+      "valuable",
+      "dear",
+      "priceless"
+    ],
+    "example": "The colonies were forced into providing precious metals to the mother country."
+  },
+  {
+    "day": 11,
+    "no": 19,
+    "sense": 1,
+    "word": "subtle",
+    "pos": "adj.",
+    "meaning": "미묘한, 감지하기 어려운",
+    "synonyms": [
+      "hard to recognize",
+      "hardly perceived",
+      "slight"
+    ],
+    "example": "The signs of dishonesty are so subtle that they often go undetected."
+  },
+  {
+    "day": 11,
+    "no": 20,
+    "sense": 1,
+    "word": "conducive to",
+    "pos": "phr.",
+    "meaning": "~에 도움이 되는",
+    "synonyms": [
+      "favorable to",
+      "helpful for",
+      "beneficial to"
+    ],
+    "example": "Energetic teachers and fun lessons are conducive to student learning."
+  },
+  {
+    "day": 11,
+    "no": 21,
+    "sense": 1,
+    "word": "preoccupied with",
+    "pos": "phr.",
+    "meaning": "~에 몰두한",
+    "synonyms": [
+      "concentrated on",
+      "absorbed in",
+      "immersed in"
+    ],
+    "example": "The crook made his getaway while officials were preoccupied with the fire he started."
+  },
+  {
+    "day": 11,
+    "no": 22,
+    "sense": 1,
+    "word": "swift",
+    "pos": "adj.",
+    "meaning": "재빠른",
+    "synonyms": [
+      "quick",
+      "speedy",
+      "fleet"
+    ],
+    "example": "With a swift movement, Maggie stood upright."
+  },
+  {
+    "day": 11,
+    "no": 23,
+    "sense": 1,
+    "word": "menace",
+    "pos": "v.",
+    "meaning": "위협하다",
+    "synonyms": [
+      "threaten",
+      "intimidate",
+      "frighten"
+    ],
+    "example": "The thief menaced the neighborhood for weeks before being caught."
+  },
+  {
+    "day": 11,
+    "no": 24,
+    "sense": 1,
+    "word": "akin to",
+    "pos": "phr.",
+    "meaning": "~과 유사한",
+    "synonyms": [
+      "similar to",
+      "like"
+    ],
+    "example": "Ukrainians are culturally and racially akin to Russians."
+  },
+  {
+    "day": 11,
+    "no": 25,
+    "sense": 1,
+    "word": "expend",
+    "pos": "v.",
+    "meaning": "(시간, 에너지 등을) 쓰다",
+    "synonyms": [
+      "use",
+      "use up",
+      "spend",
+      "consume"
+    ],
+    "example": "Athletes expend more energy in hot and humid weather, so they are likely to feel tired more quickly."
+  },
+  {
+    "day": 11,
+    "no": 26,
+    "sense": 1,
+    "word": "belittle",
+    "pos": "v.",
+    "meaning": "경시하다",
+    "synonyms": [
+      "disregard",
+      "underestimate"
+    ],
+    "example": "Jane did not realize that she was belittling her colleagues by constantly interrupting them."
+  },
+  {
+    "day": 11,
+    "no": 27,
+    "sense": 1,
+    "word": "commend",
+    "pos": "v.",
+    "meaning": "칭찬하다",
+    "synonyms": [
+      "admire",
+      "praise",
+      "compliment"
+    ],
+    "example": "The general commended the soldiers for their bravery during the battle."
+  },
+  {
+    "day": 11,
+    "no": 28,
+    "sense": 1,
+    "word": "sue",
+    "pos": "v.",
+    "meaning": "고소하다",
+    "synonyms": [
+      "take a strong legal action against",
+      "charge"
+    ],
+    "example": "The company sued its supplier for breach of contract."
+  },
+  {
+    "day": 11,
+    "no": 29,
+    "sense": 1,
+    "word": "innovation",
+    "pos": "n.",
+    "meaning": "혁신, 새로 도입한 것",
+    "synonyms": [
+      "new development",
+      "novelty",
+      "new idea"
+    ],
+    "example": "Built-in cameras and web browsing capabilities are amazing innovations in cellular phone technology."
+  },
+  {
+    "day": 11,
+    "no": 30,
+    "sense": 1,
+    "word": "fragmentation",
+    "pos": "n.",
+    "meaning": "붕괴, 분열",
+    "synonyms": [
+      "destruction",
+      "disintegration",
+      "disruption"
+    ],
+    "example": "The Cultural Revolution in China caused a fragmentation of societal ideals."
+  },
+  {
+    "day": 11,
+    "no": 31,
+    "sense": 1,
+    "word": "mainly",
+    "pos": "adv.",
+    "meaning": "주로",
+    "synonyms": [
+      "principally",
+      "generally",
+      "primarily",
+      "chiefly"
+    ],
+    "example": "In California, rain occurs mainly during the winter months."
+  },
+  {
+    "day": 11,
+    "no": 32,
+    "sense": 1,
+    "word": "sufficient",
+    "pos": "adj.",
+    "meaning": "충분한",
+    "synonyms": [
+      "enough",
+      "adequate",
+      "ample"
+    ],
+    "example": "For most healthy adults, a few days of rest is sufficient to get over a cold."
+  },
+  {
+    "day": 11,
+    "no": 33,
+    "sense": 1,
+    "word": "abnormally",
+    "pos": "adv.",
+    "meaning": "이례적으로, 이상하게",
+    "synonyms": [
+      "unusually",
+      "oddly",
+      "exceptionally",
+      "atypically"
+    ],
+    "example": "An abnormally rapid heart rate may indicate a serious health problem."
+  },
+  {
+    "day": 11,
+    "no": 34,
+    "sense": 1,
+    "word": "barrier",
+    "pos": "n.",
+    "meaning": "장벽, 장애물",
+    "synonyms": [
+      "bar",
+      "obstacle",
+      "obstruction"
+    ],
+    "example": "The mountains form a natural barrier between the two countries."
+  },
+  {
+    "day": 11,
+    "no": 35,
+    "sense": 1,
+    "word": "gigantic",
+    "pos": "adj.",
+    "meaning": "거대한",
+    "synonyms": [
+      "huge",
+      "immense",
+      "colossal"
+    ],
+    "example": "The gigantic thunderstorm in Japan was much more serious than anyone had anticipated."
+  },
+  {
+    "day": 11,
+    "no": 36,
+    "sense": 1,
+    "word": "reproduce",
+    "pos": "v.",
+    "meaning": "복제하다, 모사하다",
+    "synonyms": [
+      "copy",
+      "duplicate",
+      "imitate"
+    ],
+    "example": "The director sometimes reproduces others' styles as homage to their work."
+  },
+  {
+    "day": 11,
+    "no": 36,
+    "sense": 2,
+    "word": "reproduce",
+    "pos": "v.",
+    "meaning": "번식하다",
+    "synonyms": [
+      "breed",
+      "multiply",
+      "propagate"
+    ],
+    "example": "All living organisms need to reproduce to keep their species alive."
+  },
+  {
+    "day": 11,
+    "no": 37,
+    "sense": 1,
+    "word": "allow",
+    "pos": "v.",
+    "meaning": "허락하다",
+    "synonyms": [
+      "enable",
+      "permit",
+      "let"
+    ],
+    "example": "Farmers allowed firefighters to use water from their ponds to put out the wildfire."
+  },
+  {
+    "day": 11,
+    "no": 38,
+    "sense": 1,
+    "word": "penetrate",
+    "pos": "v.",
+    "meaning": "꿰뚫다",
+    "synonyms": [
+      "pierce",
+      "go through",
+      "enter"
+    ],
+    "example": "A large iceberg penetrated the Titanic's steel frame and caused the ship to sink."
+  },
+  {
+    "day": 11,
+    "no": 39,
+    "sense": 1,
+    "word": "device",
+    "pos": "n.",
+    "meaning": "장치, 기구",
+    "synonyms": [
+      "mechanism",
+      "apparatus",
+      "appliance"
+    ],
+    "example": "The smartphone is one of the most useful devices for communication."
+  },
+  {
+    "day": 11,
+    "no": 40,
+    "sense": 1,
+    "word": "divergent",
+    "pos": "adj.",
+    "meaning": "(의견 등이) 다른, 갈라지는",
+    "synonyms": [
+      "varying",
+      "different",
+      "dissimilar"
+    ],
+    "example": "In the debate, the political candidates discussed their divergent views."
+  },
+  {
+    "day": 11,
+    "no": 41,
+    "sense": 1,
+    "word": "flaw",
+    "pos": "n.",
+    "meaning": "결점",
+    "synonyms": [
+      "defect",
+      "fault",
+      "blemish",
+      "shortcoming"
+    ],
+    "example": "In the play Cyrano De Bergerac, the protagonist's most obvious flaw is his grotesque nose."
+  },
+  {
+    "day": 11,
+    "no": 42,
+    "sense": 1,
+    "word": "buffer",
+    "pos": "v.",
+    "meaning": "(충격을) 완화하다, 보호하다",
+    "synonyms": [
+      "protect",
+      "cushion"
+    ],
+    "example": "Installing thick windows in your home will buffer against the cold weather."
+  },
+  {
+    "day": 11,
+    "no": 43,
+    "sense": 1,
+    "word": "refute",
+    "pos": "v.",
+    "meaning": "논박하다",
+    "synonyms": [
+      "disprove",
+      "rebut",
+      "prove false"
+    ],
+    "example": "Galileo refuted the theory that the Earth was at the center of the universe."
+  },
+  {
+    "day": 11,
+    "no": 44,
+    "sense": 1,
+    "word": "domestic",
+    "pos": "adj.",
+    "meaning": "가정의",
+    "synonyms": [
+      "household",
+      "home",
+      "family"
+    ],
+    "example": "If both the husband and wife work, they should share the domestic chores."
+  },
+  {
+    "day": 11,
+    "no": 45,
+    "sense": 1,
+    "word": "on the spur of the moment",
+    "pos": "phr.",
+    "meaning": "충동적으로",
+    "synonyms": [
+      "without planning",
+      "on impulse"
+    ],
+    "example": "On the spur of the moment, Lucy and Henry drove to the beach to enjoy the unexpectedly warm day."
+  },
+  {
+    "day": 11,
+    "no": 46,
+    "sense": 1,
+    "word": "temperate",
+    "pos": "adj.",
+    "meaning": "(기후 등이) 온화한",
+    "synonyms": [
+      "moderate",
+      "mild",
+      "clement"
+    ],
+    "example": "Fruits such as apples and pears grow in temperate climates."
+  },
+  {
+    "day": 11,
+    "no": 47,
+    "sense": 1,
+    "word": "consistent with",
+    "pos": "phr.",
+    "meaning": "~과 일치하는",
+    "synonyms": [
+      "in agreement with",
+      "congruent with"
+    ],
+    "example": "Erica chose a major that was consistent with her goal of being a doctor."
+  },
+  {
+    "day": 11,
+    "no": 48,
+    "sense": 1,
+    "word": "splendor",
+    "pos": "n.",
+    "meaning": "장려함, 화려함",
+    "synonyms": [
+      "magnificence",
+      "grandeur",
+      "majesty"
+    ],
+    "example": "The splendor of the massive statues on Easter Island impressed early European explorers."
+  },
+  {
+    "day": 11,
+    "no": 49,
+    "sense": 1,
+    "word": "prosper",
+    "pos": "v.",
+    "meaning": "번창하다, 성공하다",
+    "synonyms": [
+      "succeed",
+      "flourish",
+      "thrive"
+    ],
+    "example": "Careful planning and good opportunities can help a business prosper."
+  },
+  {
+    "day": 11,
+    "no": 50,
+    "sense": 1,
+    "word": "brew",
+    "pos": "v.",
+    "meaning": "일어나려고 하다",
+    "synonyms": [
+      "develop",
+      "loom",
+      "be on the way"
+    ],
+    "example": "Meteorologists use radar and satellite imaging to determine whether a typhoon is brewing."
+  },
+  {
+    "day": 11,
+    "no": 51,
+    "sense": 1,
+    "word": "persevere",
+    "pos": "v.",
+    "meaning": "인내하며 계속하다",
+    "synonyms": [
+      "continue",
+      "carry on",
+      "persist"
+    ],
+    "example": "Despite his injury, the marathon runner persevered until the end of the race."
+  },
+  {
+    "day": 11,
+    "no": 52,
+    "sense": 1,
+    "word": "bias",
+    "pos": "n.",
+    "meaning": "편견",
+    "synonyms": [
+      "prejudice"
+    ],
+    "example": "Some nutritionists have a strong bias against genetically modified food."
+  },
+  {
+    "day": 11,
+    "no": 53,
+    "sense": 1,
+    "word": "administer",
+    "pos": "v.",
+    "meaning": "관리하다",
+    "synonyms": [
+      "manage",
+      "supervise",
+      "conduct"
+    ],
+    "example": "An external consultant has been hired to administer the large governmental grant."
+  },
+  {
+    "day": 11,
+    "no": 53,
+    "sense": 2,
+    "word": "administer",
+    "pos": "v.",
+    "meaning": "(약 등을) 주다, 투여하다",
+    "synonyms": [
+      "give",
+      "provide"
+    ],
+    "example": "It's crucial to double-check the dosage of the medication before you administer it."
+  },
+  {
+    "day": 11,
+    "no": 54,
+    "sense": 1,
+    "word": "groundless",
+    "pos": "adj.",
+    "meaning": "근거 없는",
+    "synonyms": [
+      "unfounded",
+      "baseless"
+    ],
+    "example": "Although Sarah knew her fear of the dark was groundless, she still used a nightlight."
+  },
+  {
+    "day": 11,
+    "no": 55,
+    "sense": 1,
+    "word": "arouse",
+    "pos": "v.",
+    "meaning": "자극하다",
+    "synonyms": [
+      "stimulate",
+      "provoke",
+      "incite"
+    ],
+    "example": "The strange sight in the distance aroused Watson's curiosity, so he moved closer to get a better look."
+  },
+  {
+    "day": 11,
+    "no": 56,
+    "sense": 1,
+    "word": "occupy",
+    "pos": "v.",
+    "meaning": "(주의, 마음을) 끌다",
+    "synonyms": [
+      "engross",
+      "engage",
+      "absorb"
+    ],
+    "example": "Basic needs, such as food and shelter, occupied the minds of early humans."
+  },
+  {
+    "day": 11,
+    "no": 57,
+    "sense": 1,
+    "word": "virtual",
+    "pos": "adj.",
+    "meaning": "거의 ~과 다름없는, 사실상의",
+    "synonyms": [
+      "almost complete"
+    ],
+    "example": "A further reduction in the size of the Arctic ice cap is a virtual certainty."
+  },
+  {
+    "day": 11,
+    "no": 58,
+    "sense": 1,
+    "word": "unexplored",
+    "pos": "adj.",
+    "meaning": "다루어지지 않은, 논의되지 않은",
+    "synonyms": [
+      "uncovered"
+    ],
+    "example": "The student wrote a paper on some of the unexplored aspects of social media."
+  },
+  {
+    "day": 11,
+    "no": 59,
+    "sense": 1,
+    "word": "tuned to",
+    "pos": "phr.",
+    "meaning": "~과 일치된",
+    "synonyms": [
+      "in agreement with"
+    ],
+    "example": "An employee who is tuned to the goals of management is more likely to be promoted."
+  },
+  {
+    "day": 12,
+    "no": 1,
+    "sense": 1,
+    "word": "duration",
+    "pos": "n.",
+    "meaning": "(지속되는) 기간",
+    "synonyms": [
+      "span",
+      "length",
+      "term"
+    ],
+    "example": "Napoleon lived on the island of Elba for the duration of one year."
+  },
+  {
+    "day": 12,
+    "no": 2,
+    "sense": 1,
+    "word": "massive",
+    "pos": "adj.",
+    "meaning": "대규모의, 거대한",
+    "synonyms": [
+      "huge",
+      "enormous",
+      "very large",
+      "tremendous",
+      "colossal"
+    ],
+    "example": "The company's refusal to raise wages resulted in a massive strike."
+  },
+  {
+    "day": 12,
+    "no": 3,
+    "sense": 1,
+    "word": "feasible",
+    "pos": "adj.",
+    "meaning": "실행 가능한",
+    "synonyms": [
+      "practicable",
+      "viable",
+      "possible",
+      "achievable",
+      "most likely"
+    ],
+    "example": "After years of investment and research, commercial flights to outer space are now becoming feasible."
+  },
+  {
+    "day": 12,
+    "no": 4,
+    "sense": 1,
+    "word": "vibrant",
+    "pos": "adj.",
+    "meaning": "활기 넘치는",
+    "synonyms": [
+      "active",
+      "vivacious",
+      "energetic"
+    ],
+    "example": "Honey bees communicate with one another through vibrant dances."
+  },
+  {
+    "day": 12,
+    "no": 4,
+    "sense": 2,
+    "word": "vibrant",
+    "pos": "adj.",
+    "meaning": "(색 등이) 선명한",
+    "synonyms": [
+      "vivid",
+      "bright",
+      "brilliant"
+    ],
+    "example": "Although ancient Roman statues usually appear white today, many of them were originally painted in vibrant colors."
+  },
+  {
+    "day": 12,
+    "no": 5,
+    "sense": 1,
+    "word": "accumulation",
+    "pos": "n.",
+    "meaning": "축적",
+    "synonyms": [
+      "buildup",
+      "collection",
+      "stock"
+    ],
+    "example": "Over the years, the accumulation of garbage in the river has contaminated the water."
+  },
+  {
+    "day": 12,
+    "no": 6,
+    "sense": 1,
+    "word": "link",
+    "pos": "n.",
+    "meaning": "관계, 유대",
+    "synonyms": [
+      "connection",
+      "bond",
+      "tie"
+    ],
+    "example": "The politician severed all links with his party."
+  },
+  {
+    "day": 12,
+    "no": 6,
+    "sense": 2,
+    "word": "link",
+    "pos": "v.",
+    "meaning": "관련짓다",
+    "synonyms": [
+      "connect",
+      "relate",
+      "associate"
+    ],
+    "example": "Investigators had nothing to link the suspect to the crime."
+  },
+  {
+    "day": 12,
+    "no": 7,
+    "sense": 1,
+    "word": "informally",
+    "pos": "adv.",
+    "meaning": "비공식적으로",
+    "synonyms": [
+      "commonly",
+      "casually"
+    ],
+    "example": "The city of Paris is informally known as \"The City of Light.\""
+  },
+  {
+    "day": 12,
+    "no": 8,
+    "sense": 1,
+    "word": "sovereign",
+    "pos": "n.",
+    "meaning": "군주",
+    "synonyms": [
+      "master",
+      "monarch",
+      "ruler"
+    ],
+    "example": "Traditionally, the sovereign of Great Britain lives in Buckingham Palace."
+  },
+  {
+    "day": 12,
+    "no": 9,
+    "sense": 1,
+    "word": "key",
+    "pos": "adj.",
+    "meaning": "중요한",
+    "synonyms": [
+      "important",
+      "central",
+      "essential"
+    ],
+    "example": "Ambassadors can perform a key role in negotiating a peace treaty between hostile countries."
+  },
+  {
+    "day": 12,
+    "no": 9,
+    "sense": 2,
+    "word": "key",
+    "pos": "n.",
+    "meaning": "(악곡의) 조",
+    "synonyms": [
+      "tone"
+    ],
+    "example": "The symphony orchestra played a famous musical piece in a lower key than usual."
+  },
+  {
+    "day": 12,
+    "no": 10,
+    "sense": 1,
+    "word": "eventually",
+    "pos": "adv.",
+    "meaning": "결국",
+    "synonyms": [
+      "in the end",
+      "finally",
+      "ultimately",
+      "later",
+      "in (due) time"
+    ],
+    "example": "The US eventually recognized the Filipinos' desire for independence."
+  },
+  {
+    "day": 12,
+    "no": 11,
+    "sense": 1,
+    "word": "persistent",
+    "pos": "adj.",
+    "meaning": "지속되는",
+    "synonyms": [
+      "continuous",
+      "enduring",
+      "long-lasting",
+      "constant"
+    ],
+    "example": "The persistent sound of crickets chirping kept Steve from getting a good night's sleep."
+  },
+  {
+    "day": 12,
+    "no": 12,
+    "sense": 1,
+    "word": "corroborate",
+    "pos": "v.",
+    "meaning": "확증하다",
+    "synonyms": [
+      "confirm",
+      "verify",
+      "substantiate"
+    ],
+    "example": "With DNA evidence, it is easier to corroborate a person's identity."
+  },
+  {
+    "day": 12,
+    "no": 13,
+    "sense": 1,
+    "word": "inaugurate",
+    "pos": "v.",
+    "meaning": "개시하다, 시작하다",
+    "synonyms": [
+      "introduce",
+      "initiate",
+      "begin",
+      "commence"
+    ],
+    "example": "Andre Breton helped inaugurate the surrealist movement by publishing the Manifesto of Surrealism in 1924."
+  },
+  {
+    "day": 12,
+    "no": 14,
+    "sense": 1,
+    "word": "further",
+    "pos": "adj.",
+    "meaning": "추가적인",
+    "synonyms": [
+      "additional",
+      "extra",
+      "supplementary"
+    ],
+    "example": "It was determined that the little girl would need further therapy to fully recover from the car accident."
+  },
+  {
+    "day": 12,
+    "no": 15,
+    "sense": 1,
+    "word": "concentrate on",
+    "pos": "phr.",
+    "meaning": "~에 집중하다",
+    "synonyms": [
+      "focus on",
+      "pay attention to"
+    ],
+    "example": "Meditation can help you concentrate on being in the present."
+  },
+  {
+    "day": 12,
+    "no": 16,
+    "sense": 1,
+    "word": "moreover",
+    "pos": "adv.",
+    "meaning": "게다가",
+    "synonyms": [
+      "additionally",
+      "in addition",
+      "as well",
+      "besides"
+    ],
+    "example": "Melanie had gotten thinner with age; moreover, her whole image had changed."
+  },
+  {
+    "day": 12,
+    "no": 17,
+    "sense": 1,
+    "word": "execute",
+    "pos": "v.",
+    "meaning": "수행하다",
+    "synonyms": [
+      "perform",
+      "carry out",
+      "fulfill",
+      "implement"
+    ],
+    "example": "The cheerleading squad practiced for weeks until they could execute their routine without any mistakes."
+  },
+  {
+    "day": 12,
+    "no": 17,
+    "sense": 2,
+    "word": "execute",
+    "pos": "v.",
+    "meaning": "(미술품 등을) 제작하다",
+    "synonyms": [
+      "produce"
+    ],
+    "example": "The skilled artist executed detailed and lifelike paintings."
+  },
+  {
+    "day": 12,
+    "no": 18,
+    "sense": 1,
+    "word": "urbane",
+    "pos": "adj.",
+    "meaning": "세련된",
+    "synonyms": [
+      "cultivated",
+      "sophisticated",
+      "polished",
+      "refined"
+    ],
+    "example": "My brother looked quite urbane in his new tuxedo."
+  },
+  {
+    "day": 12,
+    "no": 19,
+    "sense": 1,
+    "word": "boast",
+    "pos": "v.",
+    "meaning": "자랑하다",
+    "synonyms": [
+      "show off",
+      "brag",
+      "swagger",
+      "pride oneself on"
+    ],
+    "example": "Muhammad Ali boasted that he was the greatest boxer to ever live."
+  },
+  {
+    "day": 12,
+    "no": 19,
+    "sense": 2,
+    "word": "boast",
+    "pos": "v.",
+    "meaning": "(자랑거리로서) 가지고 있다",
+    "synonyms": [
+      "proudly possess"
+    ],
+    "example": "Paris boasts several famous and widely visited landmarks."
+  },
+  {
+    "day": 12,
+    "no": 20,
+    "sense": 1,
+    "word": "envision",
+    "pos": "v.",
+    "meaning": "마음속에 그리다, 상상하다",
+    "synonyms": [
+      "imagine",
+      "conceive",
+      "visualize"
+    ],
+    "example": "Martin Luther King Jr. envisioned a world with no racial barriers."
+  },
+  {
+    "day": 12,
+    "no": 21,
+    "sense": 1,
+    "word": "intermediate",
+    "pos": "adj.",
+    "meaning": "중간의",
+    "synonyms": [
+      "in-between",
+      "between extremes",
+      "median"
+    ],
+    "example": "A number of interesting developments occur during the intermediate stage of the insect's life cycle."
+  },
+  {
+    "day": 12,
+    "no": 22,
+    "sense": 1,
+    "word": "frightful",
+    "pos": "adj.",
+    "meaning": "무서운",
+    "synonyms": [
+      "alarming",
+      "fearsome"
+    ],
+    "example": "Tom's unusual behavior was quite frightful, enough to worry the entire family."
+  },
+  {
+    "day": 12,
+    "no": 23,
+    "sense": 1,
+    "word": "irrevocable",
+    "pos": "adj.",
+    "meaning": "돌이킬 수 없는",
+    "synonyms": [
+      "permanent",
+      "irreversible",
+      "unchangeable"
+    ],
+    "example": "Tattoos are no longer irrevocable, though removing them is painful and costly."
+  },
+  {
+    "day": 12,
+    "no": 24,
+    "sense": 1,
+    "word": "disintegration",
+    "pos": "n.",
+    "meaning": "분해, 붕괴",
+    "synonyms": [
+      "breaking apart",
+      "collapse"
+    ],
+    "example": "The disintegration of a country during civil war has devastating, long-term effects on the people."
+  },
+  {
+    "day": 12,
+    "no": 25,
+    "sense": 1,
+    "word": "burgeoning",
+    "pos": "adj.",
+    "meaning": "급증하는",
+    "synonyms": [
+      "rapidly expanding",
+      "growing",
+      "escalating"
+    ],
+    "example": "A burgeoning deer population has been interfering with traffic by wandering onto the highways."
+  },
+  {
+    "day": 12,
+    "no": 26,
+    "sense": 1,
+    "word": "terrestrial",
+    "pos": "adj.",
+    "meaning": "속세의",
+    "synonyms": [
+      "earthly",
+      "worldly"
+    ],
+    "example": "The yogi believes that only when we get rid of our terrestrial desires are we truly free."
+  },
+  {
+    "day": 12,
+    "no": 27,
+    "sense": 1,
+    "word": "adorn",
+    "pos": "v.",
+    "meaning": "꾸미다",
+    "synonyms": [
+      "decorate",
+      "beautify",
+      "ornament"
+    ],
+    "example": "Christine adorned herself in her finest jewelry for the party."
+  },
+  {
+    "day": 12,
+    "no": 28,
+    "sense": 1,
+    "word": "revolution",
+    "pos": "n.",
+    "meaning": "변혁, 개혁",
+    "synonyms": [
+      "fundamental change",
+      "innovation"
+    ],
+    "example": "Louis Pasteur's germ theory of disease caused a revolution in medical thought."
+  },
+  {
+    "day": 12,
+    "no": 29,
+    "sense": 1,
+    "word": "randomness",
+    "pos": "n.",
+    "meaning": "무작위성",
+    "synonyms": [
+      "lack of pattern"
+    ],
+    "example": "Constellations offer a practical way to assign order to the randomness of stars."
+  },
+  {
+    "day": 12,
+    "no": 30,
+    "sense": 1,
+    "word": "superficial",
+    "pos": "adj.",
+    "meaning": "표면적인",
+    "synonyms": [
+      "external",
+      "not deep",
+      "exterior"
+    ],
+    "example": "John put on a superficial appearance of being happy, but he was actually quite upset."
+  },
+  {
+    "day": 12,
+    "no": 31,
+    "sense": 1,
+    "word": "diversion",
+    "pos": "n.",
+    "meaning": "주의 전환물",
+    "synonyms": [
+      "distraction"
+    ],
+    "example": "Magicians use attractive assistants as a diversion when performing their tricks."
+  },
+  {
+    "day": 12,
+    "no": 32,
+    "sense": 1,
+    "word": "originate from",
+    "pos": "phr.",
+    "meaning": "~에서 비롯되다",
+    "synonyms": [
+      "come from",
+      "derive from",
+      "stem from"
+    ],
+    "example": "Light that originates from distant stars takes millions of years to reach the Earth."
+  },
+  {
+    "day": 12,
+    "no": 33,
+    "sense": 1,
+    "word": "intimate",
+    "pos": "adj.",
+    "meaning": "친밀한",
+    "synonyms": [
+      "close",
+      "familiar"
+    ],
+    "example": "Marilyn Monroe was intimate with many of the greatest minds of her day."
+  },
+  {
+    "day": 12,
+    "no": 34,
+    "sense": 1,
+    "word": "blossom",
+    "pos": "v.",
+    "meaning": "번영하다",
+    "synonyms": [
+      "flourish",
+      "bloom",
+      "thrive"
+    ],
+    "example": "European art and culture began to blossom during the Renaissance."
+  },
+  {
+    "day": 12,
+    "no": 35,
+    "sense": 1,
+    "word": "groundwork",
+    "pos": "n.",
+    "meaning": "토대, 기초",
+    "synonyms": [
+      "foundation",
+      "basis",
+      "footing"
+    ],
+    "example": "Isaac Newton's writings on mathematics laid the groundwork for the development of modern calculus."
+  }
+]
